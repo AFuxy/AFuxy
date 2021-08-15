@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vexion</h1>
+<h1 align="center">Hi 👋, I'm DarkMatter</h1>
 <h3 align="center">A passionate backend developer from the UK</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projectvexion" alt="projectvexion" /> </p>
