@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Life**
 
-- 📫 How to reach me **DarkMatter**
+- 📫 How to reach me **@DarkMatter** (Discord)
 
 <p align="center">
 <a href="https://twitter.com/afuxy_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="afuxy_" height="30" width="30" /></a>
