@@ -21,7 +21,7 @@ BlueSky: [AFuxy.com](https://bsky.app/profile/afuxy.com)
 - 🛠️ [BQ-Bot](https://github.com/AFuxy/BQ-Bot) (2024 - Present) - BQ-Bot is a very simple starboard bot.
 - 🛠️ [Verify-Bot](https://github.com/AFuxy/Verify-Bot) - (2023 - Present) - Verify Bot is a bot that allows for giving roles to user on join and manual verification through staff voting.
 - [GameNightBot](https://github.com/AFuxy/GameNightBot) - (Oct 2024) - GameNightBot was designed for one server, which allowed any user to change the name/icon of the server [Top.gg](https://top.gg/bot/722875819176755261)
-- 🛠️ [SpaceCatBot](https://github.com/AFuxy/SpaceCatBot) (2024 - Present) - SpaceCatBot was designed for a specific discord server as a suggestions bot.
+- 🛠️ [SpaceCatBot](https://github.com/AFuxy/SpaceCatBot) (2024 - March 2025) - SpaceCatBot was designed for a specific discord server as a suggestions bot.
 - BridgeCord (Nov 2023, closed source) - BridgeCard was designed to "bridge" two discord channels from separate servers together, with a voice link coming later. sadly the project was dropped due to bigger projects.
 - 🛠️ [Logger](https://github.com/AFuxy/Logger) - (2023 - Present) - Logger is a bot designed to log everything on a given server and save it in a specified channel.
 - 🛠️ [Carlos](https://github.com/AFuxy/Carlos) (2022 - Present) - Carlos was a bot to keep updates on a public server that I used to run, it can be updated to check status of any Minecraft server.
@@ -38,12 +38,10 @@ BlueSky: [AFuxy.com](https://bsky.app/profile/afuxy.com)
 ### Minecraft Plugins (2022 - Present)
 - 🚧 Minecraft Showdown (2023 - Present, closed source) - Group of plugins for hosting a tournament in Minecraft with Minigames.
 
-### Other
-
 ## Languages and tools I can work with
 - Javascript (NodeJS)
 - Java
-- PHP
+- PHP - Laravel
 - SQL
 
 
