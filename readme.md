@@ -1,5 +1,5 @@
 ## Hi 👋
-My name is Zak(AFuxy/DarkMatter), I'm primarily a backend developer working on a wide range of projects like discord bots and websites.  
+My name is AFuxy(DarkMatter), I'm primarily a backend developer working on a wide range of projects like discord bots and websites.  
 Since 2019 i've been coding small discord bots and starting small websites like Bubblez and Caturra.  
   
 <img src="https://komarev.com/ghpvc/?username=AFuxy" alt="AFuxy" />
@@ -15,6 +15,12 @@ BlueSky: [AFuxy.com](https://bsky.app/profile/afuxy.com)
 - 🚧 = Currently working on
 - 🛠️ = Only performing maintenance
 - Nothing = No longer being maintained
+
+### Caturra Project (2024 - Present)
+- 🚧 Caturra (2024 - Present, closed source) - Lead on Caturra, a social media framework [Caturra.Social](https://caturra.social)
+- 🚧 [Sphynx](https://github.com/CaturraSocial/Sphynx) (2025 - Present) - Lead on Sphynx, A file proxy server for Caturra [sphynx.caturra](https://sphynx.caturra.app)
+- 🚧 [Burmese](https://github.com/CaturraSocial/Burmese) (2025 - Present) - Lead on Burmese, A discord bot designed to help the team announce updates across many social platforms at once
+- 🚧 [Bengal](https://github.com/CaturraSocial/Bengal) (2025 - Present) - Lead on Bengal, A Demo website to help developers understand how to use Caturra's backend within their own projects
 
 ### Discord Bots (2029 - Present)
 - 🚧 Trinity (2024 - Present, closed source) - Multi-purpose Discord bot to help with day-to-day moderation/support.
@@ -33,7 +39,6 @@ BlueSky: [AFuxy.com](https://bsky.app/profile/afuxy.com)
 
 ### Websites (2020 - Present)
 - 🚧 Trinity Website (2025 - Present, closed source) - Trinity website is desgined as a simple dashbaord and backend api for the Trinity bot [Coming Soon]().
-- 🚧 Caturra (2024 - Present, closed source) - Lead on Caturra a social media framework [Caturra.Social](https://caturra.social)
 - Bubblez (2020 - 2023, closed source) - Social media site that I used to learn PHP. This project has since been rebranded into Caturra. [Legacy Site](https://bubblez.app).
 
 ### Minecraft Plugins (2023 - 2025)
