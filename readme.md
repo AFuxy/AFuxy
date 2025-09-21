@@ -22,7 +22,7 @@ BlueSky: [AFuxy.com](https://bsky.app/profile/afuxy.com)
 - 🚧 [Burmese](https://github.com/CaturraSocial/Burmese) (2025 - Present) - Lead on Burmese, A discord bot designed to help the team announce updates across many social platforms at once
 - 🚧 [Bengal](https://github.com/CaturraSocial/Bengal) (2025 - Present) - Lead on Bengal, A Demo website to help developers understand how to use Caturra's backend within their own projects
 
-### Discord Bots (2029 - Present)
+### Discord Bots (2019 - Present)
 - 🚧 Trinity (2024 - Present, closed source) - Multi-purpose Discord bot to help with day-to-day moderation/support.
 - 🛠️ [BQ-Bot](https://github.com/AFuxy/BQ-Bot) (2024 - Present) - BQ-Bot is a very simple starboard bot.
 - 🛠️ [Verify-Bot](https://github.com/AFuxy/Verify-Bot) - (2023 - Present) - Verify Bot is a bot that allows for giving roles to user on join and manual verification through staff voting.
