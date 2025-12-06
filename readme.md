@@ -7,9 +7,7 @@ Since 2019 i've been coding small discord bots and starting small websites like 
 ## Where to find me
 If you have any questions or something important feel free to message me.  
 Discord: DarkMatter  
-Twitter: [AFuxy_](https://x.com/AFuxy_)  
-Twitch: [AFuxy](https://twitch.tv/AFuxy)  
-BlueSky: [AFuxy.com](https://bsky.app/profile/afuxy.com)  
+Other Links: https://afuxy.com
 
 ## Projects
 - 🚧 = Currently working on
