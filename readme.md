@@ -50,4 +50,4 @@ Other Links: https://afuxy.com
 
 
 ---
-<p align="center">Credit to <a href="https://github.com/SliceCraft/SliceCraft">SliceCraft</a> </p>
+<p align="center">Credit to <a href="https://github.com/SliceCraft/SliceCraft">SliceCraft</a> for the readme template</p>
