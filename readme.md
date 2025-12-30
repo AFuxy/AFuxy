@@ -1,6 +1,7 @@
 ## Hi 👋
 My name is AFuxy(DarkMatter), I'm primarily a backend developer working on a wide range of projects like discord bots and websites.  
 Since 2019, i've been coding small discord bots and starting small websites like Bubblez and Caturra.  
+I've also dabbled in a little Minecraft plugin development with MCS and want to continue my learning of Java with Hytale.  
   
 <img src="https://komarev.com/ghpvc/?username=AFuxy" alt="AFuxy" />
 
