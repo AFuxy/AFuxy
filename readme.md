@@ -1,11 +1,11 @@
 ## Hi 👋
 My name is AFuxy(DarkMatter), I'm primarily a backend developer working on a wide range of projects like discord bots and websites.  
-Since 2019 i've been coding small discord bots and starting small websites like Bubblez and Caturra.  
+Since 2019, i've been coding small discord bots and starting small websites like Bubblez and Caturra.  
   
 <img src="https://komarev.com/ghpvc/?username=AFuxy" alt="AFuxy" />
 
 ## Where to find me
-If you have any questions or something important feel free to message me.  
+If you have any questions or something important, feel free to message me.  
 Discord: DarkMatter  
 Other Links: https://afuxy.com
 
@@ -15,20 +15,20 @@ Other Links: https://afuxy.com
 - Nothing = No longer being maintained
 
 ### Caturra Project (2024 - Present)
-- 🚧 Caturra (2024 - Present, closed source) - Lead on Caturra, a social media framework [Caturra.Social](https://caturra.social)
+- 🚧 Caturra (2024 - Present, closed source) - Lead on Caturra, a social media framework [caturra.app](https://caturra.app)
 - 🚧 [Sphynx](https://github.com/CaturraSocial/Sphynx) (2025 - Present) - Lead on Sphynx, A file proxy server for Caturra [sphynx.caturra](https://sphynx.caturra.app)
 - 🚧 [Burmese](https://github.com/CaturraSocial/Burmese) (2025 - Present) - Lead on Burmese, A discord bot designed to help the team announce updates across many social platforms at once
-- 🚧 [Bengal](https://github.com/CaturraSocial/Bengal) (2025 - Present) - Lead on Bengal, A Demo website to help developers understand how to use Caturra's backend within their own projects
+- 🚧 [Bengal](https://github.com/CaturraSocial/Bengal) (2025 - Present) - Lead on Bengal, A Demo website to help developers understand how to use Caturra's backend within their own projects [caturra.social](https://caturra.social)
 
 ### Discord Bots (2019 - Present)
 - 🚧 Trinity (2024 - Present, closed source) - Multi-purpose Discord bot to help with day-to-day moderation/support.
 - 🛠️ [BQ-Bot](https://github.com/AFuxy/BQ-Bot) (2024 - Present) - BQ-Bot is a very simple starboard bot.
-- 🛠️ [Verify-Bot](https://github.com/AFuxy/Verify-Bot) - (2023 - Present) - Verify Bot is a bot that allows for giving roles to user on join and manual verification through staff voting.
+- 🛠️ [Verify-Bot](https://github.com/AFuxy/Verify-Bot) - (2023 - Present) - Verify Bot is a bot that allows for giving roles to users on join and manual verification through staff voting.
 - [GameNightBot](https://github.com/AFuxy/GameNightBot) - (Oct 2024) - GameNightBot was designed for one server, which allowed any user to change the name/icon of the server [Top.gg](https://top.gg/bot/722875819176755261)
-- [SpaceCatBot](https://github.com/AFuxy/SpaceCatBot) (2024 - March 2025) - SpaceCatBot was designed for a specific discord server as a suggestions bot.
-- BridgeCord (Nov 2023, closed source) - BridgeCard was designed to "bridge" two discord channels from separate servers together, with a voice link coming later. sadly the project was dropped due to bigger projects.
+- [SpaceCatBot](https://github.com/AFuxy/SpaceCatBot) (2024 - March 2025) - SpaceCatBot was designed for a specific Discord server as a suggestions bot.
+- BridgeCord (Nov 2023, closed source) - BridgeCard was designed to "bridge" two Discord channels from separate servers together, with a voice link coming later. Sadly, the project was dropped due to bigger projects.
 - 🛠️ [Logger](https://github.com/AFuxy/Logger) - (2023 - Present) - Logger is a bot designed to log everything on a given server and save it in a specified channel.
-- [Carlos](https://github.com/AFuxy/Carlos) (2022 - 2025) - Carlos was a bot to keep updates on a public server that I used to run, it can be updated to check status of any Minecraft server.
+- [Carlos](https://github.com/AFuxy/Carlos) (2022 - 2025) - Carlos was a bot to keep updates on a public server that I used to run; it can be updated to check the status of any Minecraft server.
 - [discord-yt-alerts](https://github.com/AFuxy/discord-yt-alerts) (Nov 2022) - A simple bot for YouTube upload alerts.
 - AM-Bot - (Jul 2022, closed source) - A bot for collecting ideas for videos, and also to allow users to advertise sites in a channel.
 - [GU-Bot](https://github.com/AFuxy/GU-bot) (Jul 2022) - A simple bot that allows a user to suggest a game, the bot will then make a role for that game and allow the user to select a game and give themselves the role
@@ -36,11 +36,11 @@ Other Links: https://afuxy.com
 - Vexion (2019 - 2020, closed source) - A bot created to learn NodeJS and Discord.js.
 
 ### Websites (2020 - Present)
-- 🚧 Trinity Website (2025 - Present, closed source) - Trinity website is desgined as a simple dashbaord and backend api for the Trinity bot [Coming Soon]().
-- Bubblez (2020 - 2023, closed source) - Social media site that I used to learn PHP. This project has since been rebranded into Caturra. [Legacy Site](https://bubblez.app).
+- 🚧 Trinity Website (2025 - Present, closed source) - The Trinity website is designed as a simple dashboard and backend api for the Trinity bot [Coming Soon]().
+- Bubblez (2020 - 2023, closed source) - Social media site that I used to learn PHP. This project has since been rebranded into Caturra.
 
 ### Minecraft Plugins (2023 - 2025)
-- Minecraft Showdown (2023 - 2025, closed source) - Group of plugins for hosting a tournament in Minecraft with Minigames.
+- Minecraft Showdown (2023 - 2025, closed source) - MCS was a group of plugins designed to help run a minigame tournament in Minecraft. It has since been cancelled due to its large scope and the need to focus on other projects
 
 ## Languages and tools I can work with
 - Javascript (NodeJS)
